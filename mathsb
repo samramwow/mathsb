@@ -1,0 +1,72 @@
+<html>
+<Title>math</title>
+<body>
+<table border="2">
+<tr>
+<td>S No.</td>
+<td>Type of Numbers</td>
+<td>Description</td>
+</tr>
+<tr>
+<td>1</td>	
+<td>Natural Numbers</td>
+<td>N = {1,2,3,4,5  …………….}<br><br>
+It is the counting numbers</td></tr>
+<tr>
+<td>2</td>
+
+<td>Whole Numbers</td>
+
+<td>W= {0,1,2,3,4,5……………}<br><br>
+
+It is the counting numbers + zero</td></tr>
+<tr>
+<td>3</td>
+
+<td>Integers</td>
+
+<td>All whole numbers, including negative numbers + Positive numbers like -4,-3,-2,-1,0,1,2,3,4,5… so on.
+<br><br>
+ 
+
+Like whole numbers, integers don’t include fractions or decimals.</td></tr>
+
+<tr><td>4</td>
+
+<td>Positive Integers</td>
+
+<td>Z+ = 1,2,3,4,5, ……</td></tr>
+<tr>
+<td>5</td>
+
+<td>Negative Integers</td>
+
+<td>Z– = -1,-2,-3,-4,-5, ……</td></tr>
+<tr>
+<td>6</td>
+
+<td>Rational Numbers</td>
+
+<td>A number is called rational if it can be expressed in the form of p/q where p and q are integers (q> 0).
+
+For example, P/q, ⅘.</td></tr>
+<tr>
+<td>7</td>
+
+<td>Irrational Number</td>
+
+<td>A number is called irrational if it cannot be expressed in the form of p/q where p and q are integers (q> 0).
+
+For example, √3.</td></tr>
+
+<td>8</td>
+
+<td>Real Numbers</td>
+
+<td>A real number is a number that can be found on the number line. <br>Real Numbers are the numbers that we normally use and apply in real-world applications.<br>
+
+Real numbers include Natural Numbers, Integers, Whole Numbers, Rational Numbers, Fractions, and Irrational Numbers.</td></tr></table>
+<div><h1>Algebraic Formulae</h1><br><br>
+
+<img src="http://learnbseb.in/wp-content/uploads/2022/12/ALGEBRAIC-FORMULAS.png"></div></body> </html>
+
